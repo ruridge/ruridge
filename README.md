@@ -19,7 +19,7 @@ Hi, I'm Robert Uridge, a self-taught web developer from England 🏴󠁧󠁢󠁥
 
 ### Languages and Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://tc39.es">
   <img align="left" alt="JavaScript" height="32" src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/javascript.svg" />
 </a>
 <a href="https://reactjs.org">
