@@ -1,4 +1,4 @@
-# Hi there, I'm [Rob!](https://www.uridge.com) 👋
+## Hello! I'm [Robert Uridge](https://www.uridge.com).
 
   <a href="https://www.linkedin.com/in/ruridge/">
     <img align="left" alt="Robert Uridge | LinkedIn" width="24px" src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/linkedin.svg" />
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Robert Uridge, a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, living in Taiwan 🇹🇼. I'm a lifelong learner 📚 and love meeting new people. 🙋
+I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, living in Taiwan 🇹🇼. I love to build and learn in public, and I have a personal site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
 
 ### Languages and Tools
 
@@ -43,7 +43,6 @@ Hi, I'm Robert Uridge, a self-taught web developer from England 🏴󠁧󠁢󠁥
 
 - 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/)
-- 💬 [Ask Me Anything](https://github.com/ruridge/ama/)
 - 🐮 Fun fact: I grew up on a farm
 
 <div align="center">
