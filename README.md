@@ -1,4 +1,4 @@
-## Hello! I'm [Robert Uridge](https://www.uridge.com).
+## Hi! I'm [Robert Uridge](https://www.uridge.com).
 
   <a href="https://www.linkedin.com/in/ruridge/">
     <img align="left" alt="Robert Uridge | LinkedIn" width="24px" src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/linkedin.svg" />
@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, living in Taiwan 🇹🇼. I love to build and learn in public, and I have a personal site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
+Senior Software Engineer with expertise in JavaScript from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, living in Taiwan 🇹🇼. I love to build and learn in public, check out my site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
 
 ### Languages and Tools
 
@@ -38,8 +38,8 @@ I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, livin
 <br />
 
 - 🕴 I’m currently looking for a fully-remote role. If you want to work with me, send me an [email](mailto:wicker_endings03@icloud.com)
-- 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
-- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/)
+- 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html), [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha) and [Dune](https://www.goodreads.com/book/show/44767458-dune)
+- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/) and [SQLite](https://www.sqlite.org/index.html)
 - 🐮 Fun fact: I grew up on a farm
 
 <div align="center">
