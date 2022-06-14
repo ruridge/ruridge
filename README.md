@@ -41,6 +41,7 @@ I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, livin
 <br />
 <br />
 
+- 🕴 I’m currently looking for a fully-remote role. If you want to work with me, send me an [email](mailto:wicker_endings03@icloud.com).
 - 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/)
 - 🐮 Fun fact: I grew up on a farm
@@ -69,14 +70,6 @@ I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, livin
     </tbody>
   </table>
 </div>
-
-_NOTE: "Most Used Languages" does not indicate my skill level, it's a GitHub metric that just shows which languages I have the most code on GitHub._
-
-<p align="center">
-  <img height="150" alt="animation of a man working on a computer at night" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</p>
-
-<p align="center">~</p>
 
 <!--
 **ruridge/ruridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
