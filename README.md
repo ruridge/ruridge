@@ -8,10 +8,6 @@
     <img align="left" alt="Robert Uridge | Twitter" width="24px" src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/twitter.svg" />
   </a>
 
-  <a href="https://bl.ocks.org/ruridge/">
-    <img alt="Robert Uridge's Blocks | bl.ocks.org" width="24px" src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/bl-dot-ocks.png" />
-  </a>
-
 <br />
 <br />
 
@@ -41,7 +37,7 @@ I'm a self-taught web developer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, livin
 <br />
 <br />
 
-- 🕴 I’m currently looking for a fully-remote role. If you want to work with me, send me an [email](mailto:wicker_endings03@icloud.com).
+- 🕴 I’m currently looking for a fully-remote role. If you want to work with me, send me an [email](mailto:wicker_endings03@icloud.com)
 - 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/)
 - 🐮 Fun fact: I grew up on a farm
