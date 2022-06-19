@@ -37,47 +37,8 @@ Senior Software Engineer with expertise in JavaScript from England 🏴󠁧󠁢�
 <br />
 <br />
 
-- 🕴 I’m currently looking for a fully-remote role. If you want to work with me, send me an [email](mailto:wicker_endings03@icloud.com)
-- 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html), [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha) and [Dune](https://www.goodreads.com/book/show/44767458-dune)
-- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/) and [SQLite](https://www.sqlite.org/index.html)
-- 🐮 Fun fact: I grew up on a farm
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th>
-          <strong>Robert Uridge's Github Stats</strong>
-        </th>
-        <th>
-          <strong>Most Used Languages</strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top" style="vertical-align: top;">
-          <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruridge&theme=material-palenight&show_icons=true&count_private=true&hide_title=true" />
-        </td>
-        <td style="vertical-align: top;">
-          <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruridge&theme=material-palenight&layout=compact&hide_title=true" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<!--
-**ruridge/ruridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🕴 I’m currently looking for a fully-remote role. If you'd like to work together, [send me an email](mailto:wicker_endings03@icloud.com).
+- 📫 How to reach me: [wicker_endings03@icloud.com](mailto:wicker_endings03@icloud.com).
+- 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html), [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha) and [Dune](https://www.goodreads.com/book/show/44767458-dune).
+- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/) and [SQLite](https://www.sqlite.org/index.html).
+- 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk).
