@@ -40,5 +40,5 @@ Senior Software Engineer with expertise in JavaScript from England 🏴󠁧󠁢�
 - 🕴 I’m currently looking for a fully-remote role. If you'd like to work together, [send me an email](mailto:wicker_endings03@icloud.com).
 - 📫 How to reach me: [wicker_endings03@icloud.com](mailto:wicker_endings03@icloud.com).
 - 📖 I’m currently reading [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html), [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha) and [Dune](https://www.goodreads.com/book/show/44767458-dune).
-- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/) and [SQLite](https://www.sqlite.org/index.html).
+- 🌱 I’m Currently learning: [TypeScript](https://www.typescriptlang.org/) and [Prisma](https://www.prisma.io).
 - 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk).
