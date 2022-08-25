@@ -14,7 +14,7 @@
 ### Tech I'm passionate about
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" style="text-decoration:none !important;">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       width="36"
@@ -28,6 +28,7 @@
       width="36"
       height="36"
       alt="React"
+      align="left"
     />
   </a>
   <a href="https://nextjs.org/docs">
