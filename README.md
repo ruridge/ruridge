@@ -47,6 +47,8 @@
     />
   </a>
 </p>
+<!--
 <a href="https://github.com/ruridge" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruridge&layout=compact&langs_count=6&title_color=c8d1d8&text_color=c8d1d8&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+-->
