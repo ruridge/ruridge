@@ -32,7 +32,7 @@
 </a>
 <a href="https://nextjs.org/docs">
   <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/nextjs-themes.svg"
     width="36"
     height="36"
     alt="NextJs"
