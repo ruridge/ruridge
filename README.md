@@ -12,8 +12,6 @@
 - 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk).
 
 ### Tech I'm passionate about
-
-<p align="left">
   <a href="https://www.typescriptlang.org/" style="text-decoration:none !important;">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
@@ -47,7 +45,6 @@
       alt="Tailwind CSS"
     />
   </a>
-</p>
 <!--
 <a href="https://github.com/ruridge" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruridge&layout=compact&langs_count=6&title_color=c8d1d8&text_color=c8d1d8&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
