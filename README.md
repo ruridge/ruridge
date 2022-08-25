@@ -18,6 +18,7 @@
       width="36"
       height="36"
       alt="TypeScript"
+      align="left"
     />
   </a>
   <a href="https://reactjs.org/">
@@ -35,6 +36,7 @@
       width="36"
       height="36"
       alt="NextJs"
+      align="left"
     />
   </a>
   <a href="https://tailwindcss.com/">
@@ -43,6 +45,7 @@
       width="36"
       height="36"
       alt="Tailwind CSS"
+      align="left"
     />
   </a>
 <!--
