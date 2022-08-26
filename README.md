@@ -48,8 +48,11 @@
     align="left"
   />
 </a>
-<!--
-<a href="https://github.com/ruridge" align="left">
+<div style="display: flex">
+<a href="https://github.com/ruridge">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruridge&layout=compact&langs_count=6&title_color=c8d1d8&text_color=c8d1d8&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
--->
+</div>
+<a href="https://github.com/ruridge">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ruridge&bg_color=181824&color=c8d1d8&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
+</a>
