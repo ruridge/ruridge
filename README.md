@@ -14,7 +14,7 @@
 ### Tech I'm passionate about
 <a href="https://www.typescriptlang.org/">
   <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/typescript-logo-2020.svg"
     width="36"
     height="36"
     alt="TypeScript"
