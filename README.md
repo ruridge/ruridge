@@ -57,7 +57,7 @@
 </a>
 <a href="https://docs.astro.build/">
   <img
-    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/astro-icon.svg"
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/astro-mark.svg"
     width="36"
     height="36"
     alt="Astro"
