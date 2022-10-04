@@ -5,8 +5,7 @@
 - 🌏  I'm based in Taipei 🇹🇼
 - ✉️  You can contact me at [wicker_endings03@icloud.com](mailto:wicker_endings03@icloud.com)
 - 🚀  I'm currently working on [My Portfolio](https://www.uridge.com)
-- 📖 I’m currently reading [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha) and [Dune](https://www.goodreads.com/book/show/44767458-dune).
-- 🌱 I’m Currently learning: [Expo](https://expo.dev) and [Prisma](https://www.prisma.io).
+- 📖 I’m currently reading [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha)
 - 🤝  I'm open to collaborating on interesting projects
 - 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk).
 
@@ -29,6 +28,15 @@
     align="left"
   />
 </a>
+<a href="https://tailwindcss.com/">
+  <img
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/tailwindcss-mark.svg"
+    width="36"
+    height="36"
+    alt="Tailwind CSS"
+    align="left"
+  />
+</a>
 <a href="https://nextjs.org/docs">
   <img
     src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/nextjs-icon-dark.svg"
@@ -38,12 +46,21 @@
     align="left"
   />
 </a>
-<a href="https://tailwindcss.com/">
+<a href="https://expo.dev/">
   <img
-    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/tailwindcss-mark.svg"
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/expo-icon.svg"
     width="36"
     height="36"
-    alt="Tailwind CSS"
+    alt="Expo"
+    align="left"
+  />
+</a>
+<a href="https://docs.astro.build/">
+  <img
+    src="https://raw.githubusercontent.com/ruridge/ruridge/main/assets/astro-icon.svg"
+    width="36"
+    height="36"
+    alt="Astro"
     align="left"
   />
 </a>
