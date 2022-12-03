@@ -1,13 +1,13 @@
 ### Hi 👋 My name is Robert
 
-**Digital Craftsman / Full Stack Developer** with 12 years experience building for the web. From England, living in Taiwan. I love to build and learn in public, check out my site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
+**Digital Craftsman / Full-Stack Developer** with 12 years experience building for the web. From England, living in Taiwan. I love to build and learn in public, check out my site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
 
 - 🌏  I'm based in Taipei 🇹🇼
 - ✉️  You can contact me at [wicker_endings03@icloud.com](mailto:wicker_endings03@icloud.com)
 - 🚀  I'm currently working on [My Portfolio](https://www.uridge.com)
 - 📖 I’m currently reading [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha)
 - 🤝  I'm open to collaborating on interesting projects
-- 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk).
+- 🐮 Fun fact: I grew up on a [farm](https://www.towningsfarm.co.uk)
 
 ### Tech I'm passionate about
 <a href="https://www.typescriptlang.org/">
@@ -63,9 +63,4 @@
     alt="Astro"
     align="left"
   />
-</a>
-<br />
-<br />
-<a href="https://github.com/ruridge">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ruridge&bg_color=181824&color=c8d1d8&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
 </a>
