@@ -3,7 +3,7 @@
 **Digital Craftsman / Full-Stack Developer** with 12 years experience building for the web. From England, living in Taiwan. I love to build and learn in public, check out my site at [www.uridge.com](https://www.uridge.com), come say hi! 🙋
 
 - 🌏  I'm based in Taipei 🇹🇼
-- ✉️  You can contact me at [wicker_endings03@icloud.com](mailto:wicker_endings03@icloud.com)
+- ✉️  You can contact me at [uridge@duck.com](mailto:uridge@duck.com)
 - 🚀  I'm currently working on [My Portfolio](https://www.uridge.com)
 - 📖 I’m currently reading [Eat the Buddha](https://www.goodreads.com/book/show/33877608-eat-the-buddha)
 - 🤝  I'm open to collaborating on interesting projects
